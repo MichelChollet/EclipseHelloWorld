@@ -5,7 +5,9 @@ public class HelloWorldApp {
 
 	public static void main(String[] args) {
 		// Prints "Hello, World" to the terminal window.
-		System.out.println("Hello, World MM...");
+		System.out.println("Hello, World ...");
+		System.out.println("Hello, Michel ...");
+		
 
 		/*try {
 			File file = new File("C:/tmp/myfile.txt");
